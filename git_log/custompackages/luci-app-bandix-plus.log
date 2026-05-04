@@ -1,5 +1,10 @@
 <details> <summary> <b>luci-app-bandix-plus new commit log :rocket: </b> </summary>
 
-<b>Initial commit log for luci-app-bandix-plus, no previous SHA.</b>
+#### [:mega: Full Changelog. ](https://github.com/timsaya/luci-app-bandix-plus/compare/7d76e497a39b1e97566ff02876e89ea8aa5a8ce5...9516ea7adef918d3f0d39ac9881658467e0cc0c3)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
+SHA|Author|Date|Message
+-|-|-|-
+9516ea7|timsaya|Sat May 2 04:57:40 2026 +0800|Merge pull request #6 from timsaya/dev
+f8eb93f|stefanlei|Sat May 2 04:56:34 2026 +0800|docs: update README and README.zh
 </details>

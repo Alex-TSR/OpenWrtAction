@@ -1,18 +1,24 @@
 <details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/openwrt/compare/8a854377380afcb27b92e8fc74ba1ad4e4502c5a...7014bb7ee2c1abc8647e9c0ec1c3c107a01def2e)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/openwrt/compare/956a6e2c234abc565ff913fc0fcfdc43b186cf31...8a854377380afcb27b92e8fc74ba1ad4e4502c5a)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-7014bb7ee2|Fengyu Wu|Wed Apr 29 21:30:42 2026 +0800|ca-certificates: update to 20260223
-f49d45286c|xiao bo|Mon Apr 27 04:40:13 2026 +0800|wireless-regdb: update to version 2026.03.18
-c0d5d8f83f|Roland Reinl|Sun Apr 21 19:58:24 2024 +0200|filogic: add support for D-Link AQUILA PRO AI E30
-c200ed19b8|Jörg Seitz|Thu Apr 30 07:03:37 2026 +0200|mediatek: filogic: add support for zbt-z8103ax-d
-c72d3b253d|Jörg Seitz|Thu Apr 30 07:01:06 2026 +0200|mediatek: update device tree of zbt-z8103ax for nmbm
-f24f476a68|Jörg Seitz|Sun Aug 24 06:51:11 2025 +0200|mediatek: filogic: Add new Router model ZBT-Z8106AX-T
-4a45e398ed|Ryan Leung|Fri Feb 27 11:21:10 2026 +0000|ramips: add support for EDUP EP-RT2983
-da8b65de46|Sander van Deijck|Fri Apr 24 02:43:03 2026 +0200|wolfssl: update to 5.9.1
-06af2e2e49|Ignat Loskutov|Tue Mar 24 22:50:04 2026 +0100|wolfssl: update to 5.9.0
-b9862b0ab9|John Audia|Fri May 1 08:03:12 2026 -0400|kernel: bump 6.12 to 6.12.85
+8a85437738|John Audia|Mon Apr 27 14:44:21 2026 -0400|kernel: bump 6.12 to 6.12.84
+098ecd681b|John Audia|Wed Apr 22 15:59:11 2026 -0400|kernel: bump 6.12 to 6.12.83
+ff50ccf51f|John Audia|Sat Apr 18 11:26:10 2026 -0400|kernel: bump 6.12 to 6.12.82
+b00d26376e|John Audia|Mon Apr 13 08:27:41 2026 -0400|kernel: bump 6.12 to 6.12.81
+c3d15a6c8d|John Audia|Thu Apr 2 08:41:46 2026 -0400|kernel: bump 6.12 to 6.12.80
+50c18f8214|Fil Dunsky|Wed Apr 29 15:57:17 2026 +0300|mediatek: nmbm fix for Huasifei WH3000 Pro NAND
+a3a3dd68b8|Christoph Krapp|Mon Apr 27 21:32:29 2026 +0200|ipq50xx: add label-mac-device to Linksys MX5500
+e840fbfdf9|Rany Hany|Mon Apr 20 12:47:26 2026 +0300|wifi-scripts: ucode: add missing fields for station/vlan schema
+8bb268a116|Rany Hany|Thu Mar 26 19:16:37 2026 +0200|wifi-scripts: ucode: add bridge_isolate and network_vlan to schema
+50d801db75|Hauke Mehrtens|Sat Apr 18 19:47:01 2026 +0200|build: do not set CCACHE_COMPILERCHECK
+c2cf3abde9|Cerrone Diamant|Mon Apr 20 16:07:14 2026 +0200|uboot-at91: fix wrong BUILD_DEVICES for sama5d4_xplained_nandflash
+d2722eadf2|Christian Marangi|Wed Apr 15 14:46:25 2026 +0200|airoha: backport QDMA rx queue descriptor setup optimization
+919361fdb8|Christian Marangi|Wed Apr 15 14:38:08 2026 +0200|airoha: fix compilation error from VIP backport patch
+49d7ee7d5b|Christian Marangi|Wed Apr 15 10:13:11 2026 +0200|airoha: backport patches for memleak and multi-serdes
+d78923d05e|Christian Marangi|Wed Apr 1 09:07:38 2026 +0200|airoha: backport minor fix for Ethernet offload
+
 </details>

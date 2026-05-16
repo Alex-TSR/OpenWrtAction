@@ -1,19 +1,25 @@
 <details> <summary> <b>immortalwrt new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/immortalwrt/immortalwrt/compare/b511c9c66bf90d2e61a79a8e7ada2e853c433406...bce0a385ed95e93bc86bd6ff3e5ec5fb25293454)  
+#### [:mega: Full Changelog. ](https://github.com/immortalwrt/immortalwrt/compare/bce0a385ed95e93bc86bd6ff3e5ec5fb25293454...4695ae7bbe07d3f3f371188eeeba68cbab67a818)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-bce0a385ed|Tianling Shen|Mon May 11 15:04:47 2026 +0800|Merge Official Source
-e850a972b5|Hauke Mehrtens|Thu Apr 30 21:42:43 2026 +0200|mac80211: bump to version 6.18.26
-0bcdcf67d7|Dmitry Mostovoy|Mon Feb 9 11:43:41 2026 -0500|mediatek: add cudy wr3000h-v1 ubootmod
-194bd76e57|Dmitry Mostovoy|Mon Feb 9 04:52:38 2026 -0500|mediatek: add cudy wr3000e-v1 ubootmod
-8afab079a5|Dmitry Mostovoy|Mon Feb 9 04:52:03 2026 -0500|mediatek: add cudy wr3000s-v1 ubootmod
-ddba80d21c|Dmitry Mostovoy|Mon Feb 9 04:51:31 2026 -0500|mediatek: add cudy wr3000p-v1 ubootmod
-79359ffe47|Dmitry Mostovoy|Mon Feb 9 04:51:15 2026 -0500|arm-trusted-firmware-mediatek: add Cudy DDR4 target
-236bd27019|Oskari Lemmela|Fri Nov 19 07:36:22 2021 +0200|ath79: add support for MikroTik RouterBOARD 960PGS
-906a8d7f70|Chester A. Unal|Tue Feb 24 15:39:36 2026 +0200|ath79: mikrotik: compile SWCONFIG and AR8216_PHY as modules
-9e7421174c|Sander Schutten|Wed Jan 15 08:38:17 2025 +0000|intel-microcode: fix dirty build
-530366cdfd|Florian Maurer|Wed Apr 15 01:05:45 2026 +0200|wifi-scripts: fix basic_rate mapping in supplicant ucode
+4695ae7bbe|Tianling Shen|Sat May 16 16:35:14 2026 +0800|Merge Official Source
+13ff2256e5|Daniel Golle|Sat Apr 11 22:59:07 2026 +0100|mediatek: don't let devfreq power-off the CPU
+084cdacf9d|Hauke Mehrtens|Tue May 12 22:31:41 2026 +0200|toolchain: musl: backport patches with CVE fixes
+e4c15eb1a0|Dirk Buchwalder|Sun Mar 1 14:16:43 2026 +0100|airoha: an7581: add ubi nvmem driver
+feda35516c|Dirk Buchwalder|Sun Mar 1 14:13:55 2026 +0100|airoha: an7581: enable fitblk driver
+fac5a815ea|Dirk Buchwalder|Sun Mar 1 13:48:42 2026 +0100|uboot-airoha: add a label to the spi node
+aa3a9d8fa2|Kenneth Kasilag|Tue May 12 11:11:41 2026 +0000|uboot-airoha: add ethernet node for an7581 dtsi
+4729793b91|Russell Senior|Wed Apr 22 22:38:51 2026 -0700|uboot-airoha: increase the size of reserved_bmt partition
+887f21e21a|Kenneth Kasilag|Sat Feb 21 21:49:46 2026 +0000|airoha: an7581: add uboot chainloader
+8e751e953d|Kenneth Kasilag|Wed Mar 4 02:48:32 2026 +0000|uboot-airoha: rename FIP_COMPRESS to LZMA_COMPRESS
+3bd046e170|Christian Marangi|Thu May 14 22:02:00 2026 +0200|airoha: an7581: move internal PHY interrupt to specific device DTS
+e660cbc917|Tianling Shen|Thu May 14 18:15:09 2026 +0800|Merge Official Source
+2b06da1589|Hauke Mehrtens|Thu May 14 00:58:17 2026 +0200|OpenWrt v25.12.4: revert to branch defaults
+ba915c2ee7|Hauke Mehrtens|Thu May 14 00:58:13 2026 +0200|OpenWrt v25.12.4: adjust config defaults
+4ccb782af7|Tomasz Maciej Nowak|Mon May 4 19:48:41 2026 +0200|ath79: wlr-7100: move to tiny target
+
+
 </details>

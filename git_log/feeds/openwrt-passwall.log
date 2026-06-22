@@ -1,9 +1,11 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/ed7d31bcac2ee6268ea2182f225cd1f77ed85e07...a6b3e71dadf15910b9cc88a0a922cb606c099118)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/a6b3e71dadf15910b9cc88a0a922cb606c099118...aa31a6ddd90c4b321a1dadc4eeaa27fb69431312)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-a6b3e71d|linr|Fri Jun 19 23:19:37 2026 +0800|fix(subscribe): correctly handle Clash 'network: http' for Xray (#4403)
+aa31a6dd|A-BO|Mon Jun 22 17:51:09 2026 +0800|luci: add `vivo` connection detection url option
+3f21d0ff|ShanStone|Sun Jun 21 23:41:51 2026 +0800|luci: fix inline trailing comments for nftables IP rules (#4405)
+4b2f2b6e|zxl hhyccc|Sat Jun 20 19:07:22 2026 +0800|luci: Add `coreutils-timeout` depends，resolve certsha256 Fetch Failed. (#4404)
 </details>

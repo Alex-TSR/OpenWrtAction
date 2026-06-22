@@ -1,9 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/openwrt/luci/compare/ef9e37f140bf750b6248c65a127fe43515dfb9b0...2df00deb122093cbf429266ffef7ad06aaecb48f)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-2df00deb12|Stan Grishin|Mon Jun 15 19:41:25 2026 +0000|luci-app-advanced-reboot: update to 1.1.2-6
-</details>

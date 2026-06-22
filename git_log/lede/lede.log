@@ -1,10 +1,16 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/8dddaee18cd295078b9c0ab4f8a30695a676d353...27ba2c2ddbc53e1632e04200ae8ebed0fb371a3a)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/27ba2c2ddbc53e1632e04200ae8ebed0fb371a3a...bbe358fd816cc81d91285cc71047908960a130f2)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-27ba2c2dd|coolsnowwolf|Thu Jun 18 02:00:17 2026 +0800|odhcpd: fix build with GCC 8
-e90e38a6c|aiamadeus|Fri Jun 12 18:06:10 2026 +0800|uboot-sunxi: drop yaml depends
+bbe358fd8|coolsnowwolf|Sat Mar 7 10:02:01 2026 +0800|qualcommax: add Xiaomi Redmi AX5400 support
+d055f8ba1|coolsnowwolf|Wed Mar 4 10:09:03 2026 +0800|qualcommax: ipq60xx: add AnySafe E1 support
+883fd76b9|coolsnowwolf|Tue Mar 3 19:05:39 2026 +0800|qualcommax: ipq60xx: add Philips LY1800 support
+c477e3e8f|coolsnowwolf|Tue May 19 17:07:06 2026 +0800|mac80211: add nss wireless offload support
+2ee5dbe75|coolsnowwolf|Sat Jun 20 23:06:56 2026 +0800|mac80211: fix per-phy band detection
+41beda3fa|coolsnowwolf|Sat Jun 20 22:56:42 2026 +0800|ipq-wifi: update to Git HEAD (2026-05-18)
+1a839a4d1|coolsnowwolf|Sat Jun 20 22:34:01 2026 +0800|toolchain: binutils: fix compilation with GCC15
+0f14d0196|coolsnowwolf|Sat Jun 20 17:26:53 2026 +0800|qualcommax: ipq60xx: add Link NN6000v1/v2 support
 </details>

@@ -1,17 +1,18 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/d6e457a1a70a9010195edeafdc0b8eb6e3b0f7f1...7428aa65641f52bd2cf30a2d4b3744cfeb8c82d8)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/7428aa65641f52bd2cf30a2d4b3744cfeb8c82d8...10819afeb32d1f593a26e2064e05acd43a1ce925)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-7428aa656|Dirk Brenken|Mon Jun 22 21:06:07 2026 +0200|adblock: update 4.5.6-2
-80c5fc05b|Daniel Golle|Tue Jun 9 04:42:02 2026 +0100|transmission: update to version 4.1.2
-1f716bde7|George Sapkin|Sat Jun 13 16:30:55 2026 +0300|golang: bump 1.26 to 1.26.4
-c9ee3f01c|George Sapkin|Sat Jun 13 17:48:05 2026 +0300|golang: use upstream build ID logic
-8d63814c1|Dirk Brenken|Sun Jun 21 18:43:35 2026 +0200|banip: update 1.8.9-2
-c1b1d9f1f|Chester A. Unal|Sun Jun 21 09:44:20 2026 +0100|bsbf-bonding: fix final wan interface check and delete wan quietly
-747103a50|Chester A. Unal|Thu Jun 18 15:35:43 2026 +0100|bsbf-openwrt-resources: do not reload firewall
-d59f799fd|Chester A. Unal|Tue Jun 9 20:06:14 2026 +0100|bsbf-resources: update to GIT HEAD of 2026-06-19
-21a197dfe|Stan Grishin|Sat May 16 02:49:46 2026 +0000|https-dns-proxy: update to 2026.03.18-4
+10819afeb|Chester A. Unal|Wed Jun 24 19:58:37 2026 +0100|bsbf-resources: update to GIT HEAD of 2026-06-24
+f9656b220|Alexandru Ardelean|Thu Apr 16 21:15:27 2026 +0300|vobject: update to 0.9.9; add test.sh
+84a86faaf|Daniel F. Dickinson|Thu May 7 03:04:18 2026 -0400|radicale3: bump version and adjust dependencies
+376e082e3|Daniel F. Dickinson|Thu May 7 03:00:02 2026 -0400|radicale3: clean out cspell hints
+575e71df8|Hirokazu MORIKAWA|Mon Jun 22 20:36:36 2026 +0900|node: bump to 22.23.0
+1e8762925|Rui Salvaterra|Wed Jun 3 10:31:44 2026 +0100|tor: update to 0.4.9.9 stable
+1df6112ae|Wei-Ting Yang|Tue Jun 23 12:46:26 2026 +0800|expat: update to 2.8.1
+4ac1ae920|Glenn Strauss|Thu Jun 18 00:21:36 2026 -0400|lighttpd: update to lighttpd 1.4.84 release hash
+5f793a28b|Dengfeng Liu|Sun Jun 14 19:09:34 2026 +0800|xfrpc: update to 5.06.909
+7c440ca8f|Hannu Nyman|Tue Jun 23 16:47:21 2026 +0300|haveged: update to 1.9.24
 </details>

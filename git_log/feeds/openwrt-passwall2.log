@@ -1,0 +1,9 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/9f080c65786f3838c19e21186fdc3a5f408e38ce...b8975eecef6a10070347fc09963184ee98cab380)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+b8975ee|Jackie264|Thu Jun 25 20:12:55 2026 +0800|luci: Update GeoIP URLs
+</details>

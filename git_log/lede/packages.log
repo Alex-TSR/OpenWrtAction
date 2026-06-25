@@ -1,9 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/5c53b21ae79ae6bf63c457c3631720d76aecce51...fb054c87af8ed9569044e966e72ce46e2fd33b5e)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-fb054c87|coolsnowwolf|Mon Jun 22 17:18:32 2026 +0800|dns2tcp: add AAAA filter option
-</details>

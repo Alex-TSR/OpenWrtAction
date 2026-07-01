@@ -1,9 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/fb054c87af8ed9569044e966e72ce46e2fd33b5e...120f782c8ec8557dcc865fd1db39f0140a9e3b9c)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-120f782c|coolsnowwolf|Fri Jun 26 23:06:38 2026 +0800|ffmpeg: add v4l2 m2m support for riscv64
-</details>

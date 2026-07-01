@@ -1,12 +1,11 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/aec2a6005f47bc4dcde00acaefbd32f62f43bf55...94808ff04b62aa6f2ebfe80bad2e86d58411621d)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/94808ff04b62aa6f2ebfe80bad2e86d58411621d...771acca020019418d45a669c5d3bb0fcd55ca9a7)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
+771acca02|Felix Fietkau|Fri May 6 15:49:58 2022 +0200|kernel: fix flow offload issues with pppoe
+c919ada1c|Mieczyslaw Nalewaj|Thu Dec 25 18:40:35 2025 +0100|mac80211: fix build failure on kernel 6.18
 94808ff04|coolsnowwolf|Sun Jun 28 21:35:17 2026 +0800|autocore: add nss wifi offload status display for usage command
-19ee13283|Daniel Golle|Fri Apr 10 21:01:12 2026 +0100|mediatek: enable Linux 6.18 testing kernel
-5fcacc977|Daniel Golle|Fri Apr 10 21:00:29 2026 +0100|mediatek: build driver for built-in 2.5GE PHY
-1c7c087cd|Til Kaiser|Mon Jan 26 19:48:48 2026 +0100|kernel: add empty Module.symvers.tmp workaround
 </details>

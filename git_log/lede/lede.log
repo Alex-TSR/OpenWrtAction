@@ -1,9 +1,10 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/771acca020019418d45a669c5d3bb0fcd55ca9a7...a11e66ca74a2d00fb8c6e950f43a4d05b4433559)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/a11e66ca74a2d00fb8c6e950f43a4d05b4433559...a8d998876fd26a42b0aab8515f52d6d068291c73)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-a11e66ca7|Chen Minqiang|Fri Dec 12 10:58:16 2025 +0800|mediatek: add support for Tenda BE12 Pro
+a8d998876|computerqwq|Tue Jul 7 18:00:01 2026 +0800|amlogic: update dts path for OneCloud
+ad6a4eab7|Qingfang Deng|Mon Jun 1 13:32:17 2026 +0800|kernel: fix WED offloaded flow timeout
 </details>

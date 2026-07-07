@@ -1,17 +1,25 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/182d7e14bd238ddd581ea18004aa109f4dc86f57...9530866656e7bcca31b7b764ccf4862feef76473)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/9530866656e7bcca31b7b764ccf4862feef76473...6bb0adf1491253938980f72a1bf6ea287f1cd1e0)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-953086665|Josef Schlehofer|Sun Jun 28 21:37:27 2026 +0200|vscode: update commit message validation line length
-45a31aada|David Adam|Sun May 10 02:41:06 2026 +0800|fish: updated to 4.7.1
-6d8b4edd3|Christian Lachner|Fri Jul 3 16:23:49 2026 +0200|haproxy: update to v3.2.21
-ad6cbf693|Dirk Brenken|Fri Jul 3 21:27:41 2026 +0200|adblock: update 4.5.6-3
-bc70454fb|Hannu Nyman|Fri Jul 3 16:34:42 2026 +0300|nano: update to 9.1
-d07aac4d3|Ray Wang|Tue Jun 23 21:10:47 2026 +0800|fsh: fix a typo in fshs.init
-19b511dea|Stan Grishin|Wed Jul 1 18:13:57 2026 +0000|pbr: update to 1.2.2-18
-e0a945186|Erik Conijn|Sat Jun 20 08:54:39 2026 +0200|netbird: update to 0.73.2
-028372089|Bruce Chen|Tue Jun 30 19:10:17 2026 +0800|aliyun-cli: update to 3.4.0
+6bb0adf14|Daniel F. Dickinson|Wed Jun 24 19:57:06 2026 -0400|radicale3: tweak description for modern clients
+a462359a7|Daniel F. Dickinson|Wed Jun 24 19:52:28 2026 -0400|radicale3: bump version to 3.7.5
+50ea41ea0|Thibaut VARÈNE|Tue Jun 30 10:44:41 2026 +0200|uspot: update to Git HEAD (2026-06-30)
+2ce5aea10|Etienne Champetier|Sat Jul 4 16:59:16 2026 -0400|prometheus-node-exporter-lua: add test / skip test-version
+70e8b590d|Bruno Marinier|Mon Jun 8 15:25:29 2026 -0400|prometheus-node-exporter-lua: add unbound stats collector
+139222f19|Jun Ouyang|Sat Oct 11 11:19:25 2025 +0800|prometheus-node-exporter-lua: check if status is nil before processing wifi device metrics interfaces
+52e69c611|Evgeni Golov|Sun Apr 26 15:22:00 2026 +0200|prometheus-node-exporter-lua: expose node_os_info
+e86600347|Etienne Champetier|Sun May 24 18:49:15 2026 -0400|prometheus-node-exporter-lua: fixup uci_dhcp_host
+776dfd340|Will May|Wed Dec 11 12:33:37 2024 +0000|prometheus-node-exporter-lua: add filesystem metrics
+425c6e604|Jean-Laurent Girod|Wed May 6 16:32:17 2026 +0000|prometheus-node-exporter-lua: add modemmanager exporter
+b189485e1|Etienne Champetier|Sun Jul 5 09:00:01 2026 -0400|prometheus-node-exporter-lua: fix typo in description
+6eb7e52b1|Josef Schlehofer|Mon Dec 29 08:30:46 2025 +0100|prometheus-node-exporter-lua: remove bmx6 leftovers
+d03ab1fef|Etienne Champetier|Sun Jul 5 05:52:51 2026 -0400|ubnt-manager: skip ci version check
+a688f504d|Etienne Champetier|Sun Jul 5 05:43:40 2026 -0400|realtek-poe: skip ci version check
+6706e28b4|Etienne Champetier|Sun Jul 5 05:37:30 2026 -0400|mwan3: skip ci version check
+
+
 </details>

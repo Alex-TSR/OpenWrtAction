@@ -1,9 +1,12 @@
 <details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/openwrt/compare/95e72dc9180d33334e026ae1a96a07e1b12237c2...ab08f6a5241d927e724d6de3f270aa2af173f13d)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/openwrt/compare/ab08f6a5241d927e724d6de3f270aa2af173f13d...42194f91881f6735b4848a741b88b66793857d48)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-ab08f6a524|Rosen Penev|Thu Jul 2 14:53:21 2026 -0700|mac80211: ath9k: call reset on init
+42194f9188|Fil Dunsky|Fri Jan 9 20:16:30 2026 +0300|mediatek: add support for Hiveton H5000M
+01de5484fc|YaleiZang|Tue Jun 30 16:13:01 2026 +0800|airoha: remove KERNEL_LOADADDR from airoha_an7583-evb device definition
+c574db4737|YaleiZang|Tue Jun 23 11:34:02 2026 +0800|airoha: align ethernet-phy node name with reg property
+26f952247d|YaleiZang|Tue Jun 23 11:02:22 2026 +0800|airoha: correct node addresses for crypto and thermal-sensor
 </details>

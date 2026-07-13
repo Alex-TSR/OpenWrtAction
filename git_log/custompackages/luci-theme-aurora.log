@@ -1,13 +1,14 @@
 <details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/eamonxg/luci-theme-aurora/compare/1b48f1e067dc22754645aa0131c08fbda244dd04...844d9f54dfd22342f5085e13d48f0b0dfb7eb429)  
+#### [:mega: Full Changelog. ](https://github.com/eamonxg/luci-theme-aurora/compare/844d9f54dfd22342f5085e13d48f0b0dfb7eb429...7cb99b5fff586d97abc1567988c24356887bcdc2)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-844d9f5|Eamon|Sat Jul 11 00:57:03 2026 +0800|feat: snow x blue-hour light palette with unified semantic tokens
-0e02044|Eamon|Thu Jul 9 01:52:56 2026 +0800|fix: round table header corners only on the first row
-64ae2df|Eamon|Thu Jul 9 01:33:31 2026 +0800|fix: clamp form control widths to a uniform 210px baseline
-45cbcf3|Eamon|Thu Jul 9 01:20:08 2026 +0800|fix: default link colour to the brand colour in both modes
-031283c|Eamon|Thu Jul 9 00:43:14 2026 +0800|fix: park hidden tooltips off-screen and stack mobile card fields
+7cb99b5|Eamon|Sat Jul 11 22:49:08 2026 +0800|chore: release v1.1.0
+72024ba|Eamon|Sat Jul 11 22:43:57 2026 +0800|fix: keep the bare zone-colour swatch a compact pill
+889846d|Eamon|Sat Jul 11 22:17:26 2026 +0800|chore: move release changelogs to eamonxg/assets
+cbee405|eamonxg|Sat Jul 11 21:39:13 2026 +0800|perf: inline font-face CSS and preload the active sans woff2 (#89)
+9409674|eamonxg|Sat Jul 11 16:38:29 2026 +0800|feat: redesign the floating toolbar as a detached-bubble speed dial (#88)
+68b5d01|eamonxg|Sat Jul 11 13:10:22 2026 +0800|feat: add a header route-search palette (⌘K) (#87)
 </details>

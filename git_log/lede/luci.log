@@ -1,0 +1,12 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/04529e22e7cba57ac5caa1259df8e0ac35f77a68...4823684a2084c0f60cfe4ad84d090002cc28adfb)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+4823684a20|coolsnowwolf|Sun Jul 12 20:34:35 2026 +0800|luci-mod-network: add qca-wifi repeater mode
+7d8b17f72d|coolsnowwolf|Sun Jul 12 19:15:20 2026 +0800|luci-mod-network: add dual repeater apcliX support
+622d6722cb|coolsnowwolf|Sun Jul 12 12:10:41 2026 +0800|luci-mod-network: keep ht-mode when connect with sta+ap
+53b556d98a|coolsnowwolf|Sun Jul 12 11:39:03 2026 +0800|luci-mod-network: fix wireless sta+ap mode unset uci
+</details>

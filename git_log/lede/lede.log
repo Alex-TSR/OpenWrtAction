@@ -1,9 +1,11 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/a8d998876fd26a42b0aab8515f52d6d068291c73...03c6123bb4bde7b4a6389aaf9b1cf838290ea95f)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/03c6123bb4bde7b4a6389aaf9b1cf838290ea95f...07e11248804c0d73f226add14934fc307e271377)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-03c6123bb|Felix Fietkau|Wed Jul 1 13:14:40 2026 +0200|mt76: update to Git HEAD (2026-07-01)
+07e112488|Miles Poupart|Thu Jun 4 08:22:11 2026 +0800|kernel: bump 6.12 to 6.12.95
+76a764d21|coolsnowwolf|Mon Jul 13 18:04:19 2026 +0800|kernel: bump all to latest HEAD
+f08c8cb6c|coolsnowwolf|Wed May 20 18:05:50 2026 +0800|mac80211: fix 6GHz and refresh patch
 </details>

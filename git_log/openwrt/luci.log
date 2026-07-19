@@ -1,0 +1,11 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/openwrt/luci/compare/99464ec92438c000d146db3c6702971b2a60c2e2...ca9f73a88568df54ef78ec27b5fbe3bf3e2991cc)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+ca9f73a885|Dirk Brenken|Sun Jul 19 18:32:05 2026 +0200|luci-app-banip: fix ACL for non-root users
+e1cf240ade|Dirk Brenken|Sun Jul 19 18:20:15 2026 +0200|luci-app-adblock: fix ACL for non-root users
+48ac0e4beb|Dirk Brenken|Sun Jul 19 18:03:34 2026 +0200|luci-app-travelmate: fix WLAN scan for non-root users
+</details>

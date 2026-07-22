@@ -1,16 +1,14 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/3f7695d6b453a111d2ca9b8e9aa05d7e8a843b68...3e3cf508b51f190397799b858dd7e0b008972d9c)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/3e3cf508b51f190397799b858dd7e0b008972d9c...3e525ad22f6c76f6be626963974c42924cb64770)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-3e3cf508|A-BO|Sun Jul 19 15:50:09 2026 +0800|luci: adjust nftables environment dependency check
-bd0b58aa|handsomeji|Sun Jul 19 15:05:01 2026 +0800|luci: adjust iptables `drop` to `reject`
-b8bb676b|A-BO|Sun Jul 19 15:01:29 2026 +0800|luci: update default rules
-d4b2a510|wybb|Sun Jul 19 00:06:48 2026 +0800|luci: add server startup delay setting (#4429)
-5d8f411a|ShanStone|Sat Jul 18 21:20:27 2026 +0800|luci: optimise nftset timeout (#4427)
-b6d5443b|A-BO|Sat Jul 18 01:20:24 2026 +0800|luci: adjust nftables `drop` to `reject`
-49175d02|A-BO|Fri Jul 17 23:28:07 2026 +0800|luci: add `HappyEyeballs` for xray
-678d4cdd|A-BO|Fri Jul 17 13:25:44 2026 +0800|luci: adjust code
+3e525ad2|A-BO|Wed Jul 22 22:11:59 2026 +0800|luci: add `disable-reuse` option for anytls
+3db89c69|A-BO|Wed Jul 22 21:27:50 2026 +0800|luci: optimize anytls subscription
+804dcf7f|A-BO|Wed Jul 22 12:55:08 2026 +0800|luci: optimize xray balancing logic
+d0112412|A-BO|Tue Jul 21 17:23:59 2026 +0800|luci: add the `pexcn` rule list
+17906250|A-BO|Mon Jul 20 20:06:30 2026 +0800|luci: Adjust the fakedns logic of the DNS component
+9b98ad44|A-BO|Mon Jul 20 11:06:45 2026 +0800|luci: rename xray `network` to `method`
 </details>

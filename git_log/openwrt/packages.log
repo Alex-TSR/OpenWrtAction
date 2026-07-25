@@ -1,18 +1,10 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/1a3f9de1f5a4c138359858c64afce8b2d2c6a791...f36e3e98df4472c65e1e53c87a92894af0ac58ce)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/f36e3e98df4472c65e1e53c87a92894af0ac58ce...1e02e8d8f1feb74151ef1c06c16432eea774f7b8)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-f36e3e98d|Hauke Mehrtens|Tue Jul 21 03:15:29 2026 +0200|cgi-io: update to Git HEAD (2026-07-21)
-e84caf600|Niklas Thorild|Mon Jul 20 22:24:02 2026 +0200|telegraf: update to 1.39.2
-320310783|Dharmik Parmar|Thu Jul 2 09:01:55 2026 +0530|watchcat: update package maintainers
-c5a67ea9b|Dharmik Parmar|Thu Jul 2 09:01:19 2026 +0530|watchcat: resolve logical interface names
-62cda43de|Dharmik Parmar|Wed Jun 24 22:37:18 2026 +0530|watchcat: clarify recovery timer baseline
-1eb8198d6|Dharmik Parmar|Mon May 11 23:34:08 2026 +0530|watchcat: add optional failure timer reset
-8ecbd3404|Dharmik Parmar|Sun May 10 01:47:48 2026 +0530|watchcat: clarify restart log wording
-0b2580841|Josef Schlehofer|Wed Jul 1 23:58:46 2026 +0200|ci: add nightly LLM review workflow
-f7a86dd56|dependabot[bot]|Sat Jul 4 21:12:16 2026 +0000|ci: bump lewagon/wait-on-check-action from 1.8.0 to 1.8.1
-747627ad8|Josef Schlehofer|Sat Jul 4 14:52:06 2026 +0200|ci: migrate to webhook-based stale bot
+1e02e8d8f|Noah Meyerhans|Thu Jul 23 09:18:15 2026 -0400|bind: bump to 9.20.26
+614cc596e|Dennis Camera|Sat Jan 11 18:59:24 2025 +0100|openvpn: enable DCO by default
 </details>

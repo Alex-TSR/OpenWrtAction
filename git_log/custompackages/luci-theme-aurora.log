@@ -1,16 +1,10 @@
 <details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/eamonxg/luci-theme-aurora/compare/5d72aff81dba149b2ff4721fe9900a40e12a8f20...e14cfcd1375e01dbea83519177def0a9a5de3eb5)  
+#### [:mega: Full Changelog. ](https://github.com/eamonxg/luci-theme-aurora/compare/e14cfcd1375e01dbea83519177def0a9a5de3eb5...e681ecb0f44ee3e1d5712b8104a3ad38a3e7c4da)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-e14cfcd|Eamon|Mon Jul 27 00:51:38 2026 +0800|refactor: rewrite patches in plain css, shedding the tailwind toll
-a5b44da|Eamon|Mon Jul 27 00:51:26 2026 +0800|feat: teach patches to load scripts and dress the log pages
-ca1e665|Eamon|Sun Jul 26 22:21:00 2026 +0800|fix: borrow the config app's translated mode labels
-d682f12|Eamon|Sun Jul 26 22:07:46 2026 +0800|fix: repaint the bar in step with theme flips
-cc3b7c9|Eamon|Sun Jul 26 21:43:02 2026 +0800|feat: slide the sidebar and content as one coupled wall
-b473e82|Eamon|Sun Jul 26 21:42:49 2026 +0800|test: catch stale assertions up with the aligned radii
-ac043fa|Eamon|Sun Jul 26 20:08:05 2026 +0800|fix: align stray radii with their component peers
-ac20829|Eamon|Sun Jul 26 19:28:26 2026 +0800|refactor: scope the content width cap to centred layouts
+e681ecb|Eamon|Wed Jul 29 23:26:01 2026 +0800|fix: render every log token verbatim, copies byte-identical
+ee16953|Eamon|Wed Jul 29 22:38:50 2026 +0800|fix: contain select-all, follow the tail, leave dmesg unsplit
 </details>

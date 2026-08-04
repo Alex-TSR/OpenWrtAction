@@ -1,0 +1,10 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/f9dcc54b24e3f7fc7e8cd6db05f9e545eff67486...5730af3f1a756dcd4524be6f3408401c25698a17)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+5730af3f1|aiamadeus|Mon Aug 3 18:01:19 2026 +0800|uboot-rockchip: update to 2026.07
+ce3cc3d2a|Rosen Penev|Wed May 18 20:11:38 2022 -0700|linux/modules: add ksmbd support
+</details>

@@ -1,13 +1,15 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/cd7ba48b991f8a446736c34d757975122cc4ca68...86c73a3c4aa9fec7a3d6f0a90192794c59093bca)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/86c73a3c4aa9fec7a3d6f0a90192794c59093bca...b13be99a2c276501e7c684258b86948ae5857a82)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-86c73a3c4|Etienne Champetier|Thu Aug 6 20:49:31 2026 -0400|simple-captive-portal: update to 2026.08.06 / use port 80
-f39ad7f14|Andris PE|Mon May 18 18:00:25 2026 +0000|simple-captive-portal: order nft chains predictably
-da0b58341|Dirk Brenken|Thu Aug 6 21:26:44 2026 +0200|banip: report the last run timestamp as ISO 8601
-277ad304e|Dirk Brenken|Thu Aug 6 15:56:40 2026 +0200|travelmate: release 2.4.7-1
-9466674e5|Dirk Brenken|Wed Aug 5 18:27:10 2026 +0200|adblock: report the last run timestamp as ISO 8601
+b13be99a2|Ray Wang|Fri Aug 7 13:32:05 2026 +0800|hev-socks5-server: update to 2.13.0
+a6b11e27b|Ray Wang|Fri Aug 7 13:32:16 2026 +0800|hev-socks5-tproxy: update to 2.13.0
+80610e3f1|Ray Wang|Wed Jul 22 20:07:08 2026 +0800|hev-socks5-tproxy: update to 2.12.0
+a1f98397d|Ray Wang|Fri Aug 7 13:32:21 2026 +0800|hev-socks5-tunnel: update to 2.17.0
+7fe72c0f9|Ray Wang|Mon Jul 20 22:32:30 2026 +0800|hev-socks5-tunnel: update to 2.16.0
+8321f2e8b|Dirk Brenken|Sat Aug 8 17:50:24 2026 +0200|travelmate: update 2.4.7-3
+ca1e305ae|Dirk Brenken|Sat Aug 8 14:20:50 2026 +0200|travelmate: treat an unresolvable captive portal as an error
 </details>

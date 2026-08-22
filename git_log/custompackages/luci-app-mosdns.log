@@ -1,10 +1,10 @@
 <details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/sbwml/luci-app-mosdns/compare/3848307f638ac05e8787295220f9798c48fb239b...1759c841b749541256f322b208df8fb1ac6e6aff)  
+#### [:mega: Full Changelog. ](https://github.com/sbwml/luci-app-mosdns/compare/1759c841b749541256f322b208df8fb1ac6e6aff...b230ca12cba16aab2c163452bfd76f1631e2a537)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-1759c84|sbwml|Wed Aug 19 22:35:18 2026 +0800|mosdns: add query log support
-9045e9f|sbwml|Mon Aug 17 23:47:09 2026 +0800|luci-app-mosdns: fix log file becoming binary after clearing
+b230ca1|sbwml|Sat Aug 22 23:31:07 2026 +0800|luci-app-mosdns: add proactive prefetch support
+04fdf57|sbwml|Sat Aug 22 23:02:21 2026 +0800|mosdns: cache: add proactive prefetch support
 </details>

@@ -1,13 +1,19 @@
 <details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/af504f45362a037881b7c073dd639c5ebd0135d8...bb547ac49d845305a9df2d808c1d2f23ed7eaed3)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/bb547ac49d845305a9df2d808c1d2f23ed7eaed3...0551d5a091cab077ccd91684380030e040e40b41)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-bb547ac|handsomeji|Thu Aug 20 23:17:25 2026 +0800|luci: bump to 26.8.20
-d5ca4ab|Leone.Y|Thu Aug 20 23:15:13 2026 +0800|luci-app-passwall2: restart after NTP time becomes valid on RTC-less devices (#1229)
-1464646|handsomeji|Thu Aug 20 23:12:03 2026 +0800|luci: server: sing-box add missing users code
-ea9bd21|handsomeji|Thu Aug 20 21:45:17 2026 +0800|luci: fix subscribe when use HWID
-35f4b67|A-BO|Wed Aug 19 10:15:49 2026 +0800|luci: optimize js luci cbi page redirect
+0551d5a|A-BO|Tue Aug 25 11:41:03 2026 +0800|luci: fix socks
+b72a171|A-BO|Mon Aug 24 20:52:14 2026 +0800|add .gitattributes
+047e537|handsomeji|Mon Aug 24 20:58:09 2026 +0800|luci: code format
+1e56957|handsomeji|Sun Aug 23 20:12:49 2026 +0800|luci: compatible with some themes
+5da6115|handsomeji|Sun Aug 23 19:05:18 2026 +0800|luci: server: use UCI config instead of firewall rules
+e976895|handsomeji|Sun Aug 23 15:06:35 2026 +0800|luci: fix when routing rules is null
+4a769ca|bcseputetto|Sun Aug 23 14:26:44 2026 +0800|Changed the update URL to the built-in option.
+f1f3280|handsomeji|Sun Aug 23 14:15:43 2026 +0800|luci: remove config migration logic
+8ded647|handsomeji|Sun Aug 16 15:11:15 2026 +0800|luci: remove Hysteria2 core
+0e0644b|handsomeji|Mon Aug 17 00:23:16 2026 +0800|luci: refactoring and fix ACL logic
+4d35e0a|handsomeji|Sat Aug 22 21:33:28 2026 +0800|luci: adjust code
 </details>

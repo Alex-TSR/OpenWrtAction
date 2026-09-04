@@ -1,0 +1,15 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/12b33906ae89f62db5ee3a4d52c1b3294071b2c7...c0ea8dc8631c1145e6c297383b55c27d6421b300)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+c0ea8dc|handsomeji|Fri Sep 4 20:06:44 2026 +0800|luci: fix
+4ddcc0f|SwordKing|Thu Sep 3 01:07:50 2026 +0800|luci: fix Xray blackhole when remote_dns_detour=direct
+5e5fc26|handsomeji|Wed Sep 2 19:47:35 2026 +0800|luci: 26.9.2
+b4d5f97|handsomeji|Wed Sep 2 19:25:20 2026 +0800|luci: client: add snell with Sing-Box v1.14.0
+97d770d|handsomeji|Wed Sep 2 18:33:47 2026 +0800|luci: server: add snell with Sing-Box v1.14.0
+21976cc|A-BO|Wed Sep 2 11:20:17 2026 +0800|luci: fix geo view
+91c0fd7|handsomeji|Wed Sep 2 18:35:09 2026 +0800|luci: optimize
+</details>

@@ -1,13 +1,11 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/808d968e6f3361809289d10b8bc4ae97b79cf820...1e1c1aa100755bc05d72e7bd50a8233cd62dd25a)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/1e1c1aa100755bc05d72e7bd50a8233cd62dd25a...0c960a008557f55d1ace97e261e8775f5a20b485)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-1e1c1aa1|coolsnowwolf|Thu Sep 10 21:38:36 2026 +0800|ovpn-backports: define out-of-tree module version
-fd49ace2|coolsnowwolf|Thu Sep 10 21:24:45 2026 +0800|owntone: support LuCI UCI configuration
-a2c1bbff|coolsnowwolf|Thu Sep 10 21:24:30 2026 +0800|sqlite3: fix exact library dependency on opkg
-bc0a5c06|coolsnowwolf|Tue Sep 8 21:06:29 2026 +0800|Revert "transmission: use mbedTLS by default"
-bfa8c788|coolsnowwolf|Tue Sep 8 14:43:52 2026 +0800|softethervpn5: fix host build and update to 5.2.5188
+0c960a00|coolsnowwolf|Sun Sep 13 19:41:36 2026 +0800|Merge pull request #1143 from 0x5826/easytier-next
+1e37f802|coolsnowwolf|Sun Sep 13 18:59:54 2026 +0800|yaml: regenerate autotools files before building
+55389bda|dante|Sun Sep 13 12:11:43 2026 +0800|easytier-next: add pre-built binary package
 </details>

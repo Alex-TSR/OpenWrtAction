@@ -1,9 +1,24 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/98d8a72ea2f55755c4608ef913867ff1d841889b...ecd78a0eae42138d0bce3bd8a3911886507a44d4)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/ecd78a0eae42138d0bce3bd8a3911886507a44d4...725ddc051fe44eac07cf39b70708e24bf1539bcc)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-ecd78a0eae|coolsnowwolf|Thu Sep 10 21:24:58 2026 +0800|luci-app-music-remote-center: avoid init script conflict
+725ddc051f|coolsnowwolf|Mon Sep 14 02:35:43 2026 +0800|luci-mod-status: link DHCP clients to cached web services
+19cb1097e0|coolsnowwolf|Mon Sep 14 02:02:23 2026 +0800|luci-mod-status: simplify overview memory statistics
+086d8c870d|coolsnowwolf|Mon Sep 14 01:58:34 2026 +0800|luci-mod-status: sort DHCP clients by total traffic by default
+22f66d0d92|coolsnowwolf|Mon Sep 14 01:51:17 2026 +0800|luci-mod-status: show boot-session client traffic totals
+ba93b09113|coolsnowwolf|Mon Sep 14 01:33:07 2026 +0800|luci-mod-status: show aggregate WAN bandwidth progress bars
+45ca7a8d7a|coolsnowwolf|Mon Sep 14 01:06:42 2026 +0800|luci-mod-admin-full: include OUI vendor icons by default
+8ac42d9a35|coolsnowwolf|Mon Sep 14 00:51:38 2026 +0800|luci-mod-status: show cached per-client traffic rates in DHCP leases
+5f52d90cdf|coolsnowwolf|Mon Sep 14 00:13:31 2026 +0800|luci-app-oui: add cached vendor icons to DHCP leases
+380617aad7|coolsnowwolf|Sun Sep 13 23:29:45 2026 +0800|luci-app-openvpn-server: show connected client status
+e74d50d040|coolsnowwolf|Sun Sep 13 23:21:41 2026 +0800|luci-mod-status: honor configured time display options
+26d2f86ae2|coolsnowwolf|Sun Sep 13 23:09:39 2026 +0800|luci-app-firewall: show runtime NAT and TCP CCA status
+6864a88827|coolsnowwolf|Sun Sep 13 22:54:35 2026 +0800|luci-app-samba: avoid duplicate hotplug script
+6797fd1167|coolsnowwolf|Sun Sep 13 21:42:26 2026 +0800|luci-mod-system: add NTP request redirection
+d76c0342c7|seckv|Sun Sep 13 19:42:58 2026 +0800|luci-app-easytier-next: add new package (#416)
+6409fcb19f|Elune_Adore|Sun Sep 13 19:42:45 2026 +0800|fix(luci-base): fix DHCP-Options display
+
 </details>

@@ -1,19 +1,18 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/ac4b1e7821ffc79f0d3467472fb56dfaf5274913...cbf18a6999c10d1b92b4def18b2345fa776ee624)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/cbf18a6999c10d1b92b4def18b2345fa776ee624...3f4c9ce7fc507ba277a1c13af1aea046cae3f9d9)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-cbf18a69|A-BO|Fri Sep 11 02:14:35 2026 +0800|luci: fix share link import
-7bea8378|A-BO|Thu Sep 10 21:43:40 2026 +0800|luci: adjust backend logic when ACL logging is enabled
-c63adab5|A-BO|Thu Sep 10 20:03:35 2026 +0800|luci: improvement and optimization
-24f2e277|A-BO|Thu Sep 10 04:31:23 2026 +0800|luci: adjust and optimize acl
-1fa80eab|A-BO|Wed Sep 9 14:51:34 2026 +0800|luci: Xray Refactor proxy settings to use dialer_proxy_tag
-b428429b|A-BO|Wed Sep 9 14:43:46 2026 +0800|luci: optimize
-92714cdb|A-BO|Wed Sep 9 00:05:44 2026 +0800|luci: 26.9.9
-dbd89ac9|A-BO|Tue Sep 8 23:31:45 2026 +0800|luci: migrate xray `freedom.domainStrategy` to `sockopt.domainStrategy`
-0db5c7b2|lwb1978|Tue Sep 8 14:02:31 2026 +0800|luci: migrate xray dns outbound `proxySettings` to `dialerProxy`
-4237339b|lwb1978|Tue Sep 8 12:02:54 2026 +0800|luci: Cache LuCI version
-436d9d44|lwb1978|Tue Sep 8 11:13:11 2026 +0800|luci: adjust hosts dns rule for sing-box 1.14
+3f4c9ce7|lwb1978|Mon Sep 14 01:11:02 2026 +0800|luci: improvement and optimization
+fbae2d5e|lwb1978|Mon Sep 14 00:10:02 2026 +0800|luci: optimize nftables dns redirect logic
+cdbcb721|yiyuanlu|Sun Sep 13 10:39:33 2026 +0800|luci: restrict iptables DIVERT hooks to transparent sockets (#4470)
+851669ab|A-BO|Sat Sep 12 17:07:06 2026 +0800|luci: update sing-box hysteria configuration fields
+a486d3e8|A-BO|Sat Sep 12 16:54:47 2026 +0800|luci: fix tls configuration for http protocol
+f07a97f3|A-BO|Sat Sep 12 11:55:57 2026 +0800|luci: improvement and fix
+fd22472b|A-BO|Sat Sep 12 00:17:30 2026 +0800|luci: improve IP address matching
+8b41876a|A-BO|Fri Sep 11 22:05:38 2026 +0800|luci: fix theme compatibility for node select template
+6a5074e5|A-BO|Fri Sep 11 13:36:32 2026 +0800|luci: optimize
+f512e2eb|ThornsW|Fri Sep 11 10:48:20 2026 +0800|luci: fix: add mwan3 exemption rule via iptables-nft instead of native nft (#4466)
 </details>

@@ -1,9 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/0c960a008557f55d1ace97e261e8775f5a20b485...0a3c1c1d100f1234c9269f7547e5482822a0845e)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-0a3c1c1d|coolsnowwolf|Mon Sep 14 22:30:22 2026 +0800|libwebsockets: fix DISABLE_WERROR CMake option
-</details>

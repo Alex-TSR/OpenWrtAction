@@ -1,16 +1,14 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/9ea7d79c1e3c415548bbb45f6b184e8f5574923a...b9667c90d6a97eb43294ac94cc85d42bca0d5dd5)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/b9667c90d6a97eb43294ac94cc85d42bca0d5dd5...8043c1fbb18bd268dfb2667e1442da1f2a126621)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
+8043c1fb|A-BO|Tue Sep 22 20:30:33 2026 +0800|luci: improve Base64 decoding
+70761ef1|A-BO|Mon Sep 21 21:29:52 2026 +0800|luci: support SS ShadowTLS SIP003 URI subscribe
+4e56af42|Jackie Han|Sun Sep 20 18:23:01 2026 +0800|luci: Implement retry logic for dnsmasq config file
+cb215ae5|A-BO|Sun Sep 20 13:25:10 2026 +0800|luci: optimize
+d074d130|A-BO|Sun Sep 20 11:15:29 2026 +0800|luci: adjust detail
 b9667c90|A-BO|Sun Sep 20 02:11:42 2026 +0800|luci: server: disabled custom in user dropdown
-072eb196|A-BO|Sun Sep 20 00:38:00 2026 +0800|luci: fix xray mkcp field typo
-4ddbe980|A-BO|Sun Sep 20 00:31:37 2026 +0800|luci: Fixed /tmp/etc/dnsmasq.conf.cfg01411c: No such file or directory
-9c641574|A-BO|Sat Sep 19 18:39:58 2026 +0800|luci: improvement and optimization
-4dd01eb4|A-BO|Sat Sep 19 01:47:26 2026 +0800|luci: server: revise certificate and private key wording
-8bdf9c60|lwb1978|Fri Sep 18 15:46:00 2026 +0800|luci: add snell subscribe and import/export
-6226c1eb|lwb1978|Fri Sep 18 11:47:18 2026 +0800|luci: fix the translation
-611e873e|lwb1978|Thu Sep 17 19:01:12 2026 +0800|luci:  rule currently not support `ext`
 </details>

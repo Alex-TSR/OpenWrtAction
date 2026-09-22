@@ -1,0 +1,9 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/b952adf4c88652c582f27e523c975c8470920f84...ab2f391378cbb1c38d281ebcf2b402cde29edc97)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+ab2f39137|coolsnowwolf|Tue Sep 22 16:07:14 2026 +0800|mediatek: skip BL artifacts for CMCC RAX3000Me
+</details>

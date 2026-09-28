@@ -1,11 +1,14 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/0fb07d4de6db4bae39cd5c6c399dec0f0dde3cc6...3e89467745252d80fb1ecc252f88d02966582a05)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/3e89467745252d80fb1ecc252f88d02966582a05...60949633181e5bf7f9a35b5857204d6e39ce0d58)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-3e89467745|coolsnowwolf|Sat Sep 26 00:50:03 2026 +0800|luci-mod-status: add system and kernel log TXT export
-00dd4ba761|coolsnowwolf|Fri Sep 25 03:24:34 2026 +0800|luci-app-oui: show phone icon for private MAC addresses
-18ddab39c7|coolsnowwolf|Fri Sep 25 03:15:00 2026 +0800|luci-app-oui: add Haier vendor recognition and icon
+6094963318|github-actions[bot]|Mon Sep 28 07:09:16 2026 +0000|ci: sync upstream luci applications
+ed9498374a|coolsnowwolf|Mon Sep 28 15:08:21 2026 +0800|ci: restore upstream LuCI application sync
+7494809a0b|coolsnowwolf|Sun Sep 27 20:23:44 2026 +0800|luci-theme-design: add prioritized HomeProxy navbar shortcut
+dcb5f6bca8|coolsnowwolf|Sun Sep 27 19:23:49 2026 +0800|luci-theme-design: fix nftables text badge sizing
+69ecae6f3a|coolsnowwolf|Sun Sep 27 19:20:41 2026 +0800|luci-theme-design: left-align nftables rules
+393cc750ae|coolsnowwolf|Sat Sep 26 23:16:30 2026 +0800|luci-mod-status: restore online client detection
 </details>

@@ -1,11 +1,12 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/ab2f391378cbb1c38d281ebcf2b402cde29edc97...241650a12c1121c76ba6e82567f3cbd81e368d3d)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/241650a12c1121c76ba6e82567f3cbd81e368d3d...6248ca158b90d640ece2c1a56c392cb0c430b665)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-241650a12|coolsnowwolf|Fri Sep 25 00:54:16 2026 +0800|kernel: bump 6.12 to 6.12.111 and 6.18 to 6.18.53
-ec6173583|coolsnowwolf|Fri Sep 25 00:11:51 2026 +0800|kernel: fix xt_FLOWOFFLOAD output device lookup
-8f708e8f0|coolsnowwolf|Thu Sep 24 23:28:56 2026 +0800|mediatek: fix MT7987 clock driver on Linux 6.18
+6248ca158|coolsnowwolf|Sun Sep 27 17:59:30 2026 +0800|qca-nss-drv: fix frag list truesize accounting
+4947846ea|coolsnowwolf|Sun Sep 27 08:16:26 2026 +0800|default-settings: generate firmware revision from build date
+555d22155|coolsnowwolf|Sun Sep 27 08:10:44 2026 +0800|kernel: bump 6.18 to 6.18.54
+e663ca9b4|coolsnowwolf|Sun Sep 27 07:47:50 2026 +0800|qualcommax: move Device DTS to dedicated DTS directory
 </details>

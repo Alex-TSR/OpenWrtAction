@@ -1,17 +1,15 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/c139608d2f23da49946f3d3c4e69d051f261948c...7b3d8efc2e1b9b2d6d78a078aea5961dd9c99a08)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/7b3d8efc2e1b9b2d6d78a078aea5961dd9c99a08...97a60e9b6ed902476791455f1539fb541bfc04a6)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-7b3d8efc|A-BO|Mon Sep 28 16:30:09 2026 +0800|luci: optimize cron
-ab8102d1|A-BO|Mon Sep 28 00:50:35 2026 +0800|luci: Change FakeIPv6Pool to 2001:2::/48
-082d37c7|A-BO|Sun Sep 27 21:31:22 2026 +0800|luci: optimize lock cleanup logic
-69679d77|A-BO|Sun Sep 27 15:15:16 2026 +0800|luci: bump 26.9.27
-1d1a6b52|A-BO|Sun Sep 27 15:05:34 2026 +0800|luci: migrate rules list to `/etc/passwall/rules`
-f835f6b7|A-BO|Sat Sep 26 21:15:18 2026 +0800|luci: Anytls/Tuic/Hy2 support `pinSHA256` subscribe for Sing-box
-f5979266|A-BO|Sat Sep 26 12:23:24 2026 +0800|luci: bump 26.9.26
-7e46234a|A-BO|Sat Sep 26 12:21:35 2026 +0800|luci: update default proxy host list
-2d195b29|A-BO|Sat Sep 26 11:42:33 2026 +0800|luci: optimize hysteria2 `pinSHA256`
+97a60e9b|A-BO|Fri Oct 2 03:45:50 2026 +0800|luci: adjust the dns logic of the shunt node
+158f3949|A-BO|Fri Oct 2 02:49:30 2026 +0800|luci: fix stop lock errors
+219fca22|A-BO|Thu Oct 1 02:12:51 2026 +0800|luci: 26.10.1
+8eeaa7d9|A-BO|Thu Oct 1 02:07:11 2026 +0800|luci: optimize dns-related
+15890d37|A-BO|Wed Sep 30 18:15:43 2026 +0800|luci: adjust and optimize
+b882d8f1|A-BO|Wed Sep 30 00:53:48 2026 +0800|luci: adjusted the dnsmasq cache hash calculation logic
+44e821a2|A-BO|Tue Sep 29 10:22:04 2026 +0800|luci: support subscription cookies
 </details>

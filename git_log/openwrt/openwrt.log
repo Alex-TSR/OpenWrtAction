@@ -1,20 +1,22 @@
 <details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/openwrt/compare/7673104ad53dd0095ec54ecce47f0f5758991f5e...6ad13aa7290135ac6e1778be95d11b3034b9a416)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/openwrt/compare/6ad13aa7290135ac6e1778be95d11b3034b9a416...192a447688e99b03a8d0fae062283c4016b42a0a)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-6ad13aa729|Christian Marangi|Wed Sep 30 09:41:29 2026 +0200|arm-trusted-firmware-airoha: update to Git HEAD (2026-08-20)
-b72d70255b|Mikhail Zhilkin|Fri Aug 14 18:49:13 2026 +0300|arm-trusted-firmware-airoha: update to Git HEAD (2026-08-14)
-e8b0f87ba3|Robert Marko|Sun Aug 9 11:21:46 2026 +0200|arm-trusted-firmware-airoha: fix BL2 packing on Debian 11
-88730313a2|Christian Marangi|Thu Jul 16 20:13:35 2026 +0200|packages/boot: add arm-trusted-firmware-airoha
-cc2716a6aa|Kenneth Kasilag|Wed Apr 1 23:24:39 2026 +0000|airoha: configure FWNODE_PCS
-07671e89b0|George Moussalem|Tue Sep 1 12:21:39 2026 +0400|generic: update to latest fwnode phylink PCS patches
-bcbf4a406a|Christian Marangi|Sun May 17 12:42:29 2026 +0200|generic: update pending PCS patch with .fill_available_pcs OP
-b08e87dd98|Christian Marangi|Wed May 13 13:38:46 2026 +0200|airoha: update ethernet node for new PCS implementation
-c8b8ee607c|Christian Marangi|Wed May 13 00:06:52 2026 +0200|airoha: update PCS node in DTSI for new PCS implementation
-e95dfc524d|Christian Marangi|Tue May 12 23:57:29 2026 +0200|airoha: migrate to PCS standalone implementation
-7bb083b6b4|Christian Marangi|Sat May 9 20:12:18 2026 +0200|generic: 6.12: backport PCS standalone feature
-67e761fe9e|Christian Marangi|Wed Jun 17 19:44:29 2026 +0200|generic: 6.12: backport netdev_from_priv() helper
+192a447688|Grische|Sat Sep 26 12:24:48 2026 +0200|build: fix image headers silently truncated with uutils coreutils
+6ea0478bef|Mario Andrés Pérez|Sun May 24 00:42:47 2026 +0200|bcm47xx: base-files: hack sysinfo to allow ASU sysupgrades
+b89e7b9599|Mario Andrés Pérez|Tue Mar 10 20:21:33 2026 +0100|layerscape: armv8_64b: traverse ten64-mtd fix ASU support
+1439de1777|Mario Andrés Pérez|Sat Apr 18 14:38:57 2026 +0200|imx: cortexa9: ventana, fix profiles names in profiles.json
+f3c0b084b1|Mario Andrés Pérez|Fri Feb 13 21:28:32 2026 +0100|qualcommbe: ipq95xx: require image metadata for sysupgrade checks
+244ed490a2|Hauke Mehrtens|Tue May 26 01:17:13 2026 +0200|libiwinfo: update to Git HEAD (2026-05-26)
+e594c1dbf3|Ivan Pavlov|Sat Oct 3 18:28:39 2026 +0300|openssl: update to 3.5.9
+60827c1dc2|Tianling Shen|Mon Sep 21 14:19:25 2026 +0800|kselftests-bpf: isolate target userspace compiler flags
+a429d63d59|Shiji Yang|Thu Sep 3 19:39:03 2026 +0800|wireless-regdb: update to version 2026.09.03
+93b5c6220e|Hauke Mehrtens|Sat Jun 27 17:29:48 2026 +0200|umdns: update to Git HEAD (2026-06-27)
+61afc164a5|Hauke Mehrtens|Tue Aug 11 22:46:05 2026 +0200|uhttpd: update to Git HEAD (2026-08-03)
+69c6eebf56|Hauke Mehrtens|Thu Oct 1 01:48:34 2026 +0200|mac80211: update to version 6.18.55
+5545740354|Tianling Shen|Thu May 21 17:00:34 2026 +0800|valgrind: fix ARMv7 detection on AArch64
+15421742a9|Michael Pfeifroth|Mon Jun 22 14:13:37 2026 +0200|wifi-scripts: enforce WPA3 for all encryption types on 6 GHz
 </details>

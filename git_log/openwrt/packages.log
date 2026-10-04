@@ -1,25 +1,22 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/b9c0c76e661d2e14e7610c4867742bc6716ad806...9b9199ae43c4c18177274468b61317b267fd3e71)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/9b9199ae43c4c18177274468b61317b267fd3e71...fbe467795427bf6837acb7722e4c72a89b9405ff)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-9b9199ae4|Niklas Thorild|Tue Sep 29 13:03:18 2026 +0200|telegraf: target go 1.27 on openwrt-25.12
-d78ab19f4|Niklas Thorild|Mon Sep 21 21:26:46 2026 +0200|telegraf: update to 1.40.1
-19fd1072a|Remi Gacogne|Tue Sep 8 10:41:57 2026 +0200|pdns: security update to 4.9.17
-dd6a9799f|George Sapkin|Sun May 10 02:59:18 2026 +0300|pdns: update config arguments
-51ad82abd|Remi Gacogne|Tue Sep 8 10:46:04 2026 +0200|pdns-recursor: security update to 5.2.13
-92bc64441|George Sapkin|Wed Sep 30 21:01:26 2026 +0300|golang: mark 1.27 as host-only
-880b3baf8|George Sapkin|Wed Sep 2 16:01:59 2026 +0300|golang: bump 1.27 to 1.27.1
-2558a94e1|George Sapkin|Wed Sep 2 15:30:14 2026 +0300|golang: add support for host-only version series
-4aba19f29|George Sapkin|Wed Aug 19 21:54:44 2026 +0300|golang: add 1.27.0
-2c3fb3263|George Sapkin|Mon Aug 10 18:31:59 2026 +0300|golang: fix target binary stripping
-05772f3b8|George Sapkin|Mon Aug 10 18:29:57 2026 +0300|golang: remove redundant quotes in extra_provides
-42cd716d5|Josef Schlehofer|Sun Sep 27 21:44:41 2026 +0200|exim: update to 4.100.1
-fb7d7b3ab|Josef Schlehofer|Sun Sep 27 21:44:40 2026 +0200|exim: add download URL for superseded releases
-9f439079f|Ivan Pavlov|Thu Sep 24 22:30:35 2026 +0300|rsync: update to 3.5.1
-a14cd3312|George Sapkin|Sun May 24 23:10:27 2026 +0300|rsync: add version check override
-
-
+fbe467795|Josef Schlehofer|Sun Sep 27 23:39:13 2026 +0200|selinux-python: add version check override
+0c9829c65|Josef Schlehofer|Sun Sep 27 17:52:18 2026 +0200|python3: match packages by pattern in version check override
+39754e6b2|George Sapkin|Sun May 10 15:15:08 2026 +0300|python3: move version checks to override
+bb83dc2f9|Andrea Pesaresi|Fri Aug 28 18:28:58 2026 +0200|ksmbd-tools: add package version test
+d7978609e|Josef Schlehofer|Sun Aug 9 08:01:33 2026 +0200|tree-wide: rename version check test.sh to test-version.sh
+e255d83c5|Alexandru Ardelean|Sat May 30 21:12:17 2026 +0300|alsa-lib: add version check override
+4b73d17d5|George Sapkin|Fri May 8 16:21:03 2026 +0300|lksctp-tools: add generic version check override
+1a7b286da|Alexandru Ardelean|Fri May 1 19:33:03 2026 +0300|alsa-lib: add test.sh for aserver without --version
+73be450b0|Alexandru Ardelean|Fri May 1 10:22:47 2026 +0300|bluez: add test.sh for binaries without --version
+dbd4c1151|Moritz Warning|Sat Jun 6 00:29:49 2026 +0200|zerotier: update to 1.16.2
+8195da5fd|Fabrice Fontaine|Wed Mar 18 19:00:17 2026 +0100|net/zerotier: assign PKG_CPE_ID
+295217cc3|Mai Thanh Minh|Mon Dec 15 03:25:10 2025 +0700|zerotier: apply upstream license change to `MPL-2.0`
+8c55f325c|Vladimir Ulrich|Mon Sep 14 21:51:19 2026 +0300|zoneinfo: update to 2026d release
+dda3da453|Vladimir Ulrich|Sat Jul 11 19:25:48 2026 +0300|zoneinfo: updated to 2026c release
 </details>
